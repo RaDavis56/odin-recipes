@@ -1,1 +1,2 @@
-# odin-recipes
+Using the foundations and fundamentals of HTML and web design to put together a multi-page recipe project. 
+After completeing the project it was easier than I thought and I found the myself deveolping a fast flow to making the pages. 
